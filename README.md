@@ -36,7 +36,7 @@ git config --global user.email "user_email"
 
 #### Step 3: Clone the Repository
 ```bash
-git clone "https://github.com/sasanklakimsetti/Reminder-Pro"
+git clone "https://github.com/Pavanchandu9121/Remainder-Pro"
 ```
 
 ---
